@@ -1,2 +1,2 @@
 # Software Engineering Project
-Stock Price Comparison Web App inplemented in the Python language
+Stock Price Comparison Web App implemented in the Python language
