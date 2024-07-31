@@ -1,1 +1,2 @@
-# Software-Engineering-Stock-Price-Comparison-Web-App-Project
+# Software Engineering Project
+Stock-Price-Comparison-Web-App
